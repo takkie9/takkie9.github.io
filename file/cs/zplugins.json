@@ -19,5 +19,26 @@
         "description": "#SS MultiAPI",
         "url": "https://raw.githubusercontent.com/takkie9/takkie9.github.io/main/file/cs/ss.cs3",
         "name": "SS"
+    },
+	    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "test9"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 228,
+        "internalName": "SS2",
+        "description": "#SS2 MultiAPI",
+        "url": "https://raw.githubusercontent.com/takkie9/takkie9.github.io/main/file/cs/ss2.cs3",
+        "name": "SS2"
     }
 ]
